@@ -157,7 +157,9 @@ void copy_to_original()
 	}
 	
 }
-
+  
+  
+  
 int main(void)
 {
 	int step=0;
