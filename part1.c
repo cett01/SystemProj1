@@ -19,7 +19,7 @@ int main(int argc, char **argv)
 	printf("Please input the rule number:\n");
 	scanf("%d", &rule);
 	
-    fp = fopen("input1d.txt", "r+");
+    fp = fopen(argv[1], "r+");
 	if(!fp)
 	{
 		printf("ERROR!! Opening");
