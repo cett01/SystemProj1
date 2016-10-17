@@ -1,3 +1,7 @@
+;System Programming PROJECT1
+;150110125 Ekrem Cihad Cetin
+;150110132 Kutay Hekimoglu
+;150120061 Metahan Gultekin
 
 segment .text
 global assSbr
